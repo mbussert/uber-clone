@@ -61,8 +61,6 @@ const NavFavorites = () => {
           <View>
             <Text style={tw`font-bold text-lg`}>{location}</Text>
             <Text style={tw`text-gray-500`}>{destination}</Text>
-            <Text style={tw`font-bold text-lg`}>{location}</Text>
-            <Text style={tw`text-gray-500`}>{destination}</Text>
           </View>
         </TouchableOpacity>
       )}
